@@ -68,8 +68,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -228,8 +228,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -388,8 +388,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -468,8 +468,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -548,8 +548,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -708,8 +708,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -868,8 +868,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1028,8 +1028,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1188,8 +1188,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1348,8 +1348,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1428,8 +1428,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1508,8 +1508,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1668,8 +1668,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1828,8 +1828,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1988,8 +1988,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2148,8 +2148,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2308,8 +2308,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2388,8 +2388,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2468,8 +2468,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2482,46 +2482,6 @@
     {
         "config": {
             "text": "true",
-            "eol": "crlf",
-            "core_autocrlf": "true",
-            "core_eol": "native"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "crlf",
-                "crlf": "crlf",
-                "mixed": "crlf"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "undefined",
             "eol": "crlf",
             "core_autocrlf": "true",
             "core_eol": "native"
@@ -2561,6 +2521,46 @@
     },
     {
         "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
             "text": "auto",
             "eol": "lf",
             "core_autocrlf": "true",
@@ -2628,8 +2628,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2788,8 +2788,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {

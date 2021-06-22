@@ -68,8 +68,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -228,8 +228,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -249,8 +249,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -388,8 +388,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -468,8 +468,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -548,8 +548,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -708,8 +708,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -722,6 +722,46 @@
     {
         "config": {
             "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
             "eol": "lf",
             "core_autocrlf": "true",
             "core_eol": "crlf"
@@ -761,46 +801,6 @@
     },
     {
         "config": {
-            "text": "undefined",
-            "eol": "lf",
-            "core_autocrlf": "true",
-            "core_eol": "crlf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
             "text": "auto",
             "eol": "undefined",
             "core_autocrlf": "true",
@@ -868,8 +868,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1028,8 +1028,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1188,8 +1188,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1209,8 +1209,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -1348,8 +1348,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1369,8 +1369,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -1428,8 +1428,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1508,8 +1508,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1668,8 +1668,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1689,8 +1689,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -1828,8 +1828,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1988,8 +1988,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2148,8 +2148,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2169,8 +2169,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -2308,8 +2308,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2388,8 +2388,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2468,8 +2468,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2628,8 +2628,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2649,8 +2649,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -2788,8 +2788,8 @@
                 "mixed": "mixed"
             },
             "checkinExtendEmpty": {
-                "lf": "crlf",
-                "crlf": "lf",
+                "lf": "lf",
+                "crlf": "crlf",
                 "mixed": "mixed"
             },
             "unmodified": {
