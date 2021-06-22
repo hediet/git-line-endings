@@ -1,0 +1,2522 @@
+[
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "workspace": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinReplace": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    }
+]
