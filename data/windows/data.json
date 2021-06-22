@@ -27,6 +27,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -60,6 +65,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -97,6 +107,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -128,6 +143,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -167,6 +187,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -202,6 +227,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -233,6 +263,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -272,6 +307,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -307,6 +347,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -340,6 +385,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -377,6 +427,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -412,6 +467,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -447,6 +507,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -482,6 +547,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -517,6 +587,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -552,6 +627,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -587,6 +667,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -622,6 +707,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -657,6 +747,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -692,6 +787,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -727,6 +827,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -762,6 +867,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -797,6 +907,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -832,6 +947,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -867,6 +987,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -900,6 +1025,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -937,6 +1067,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -972,6 +1107,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1006,6 +1146,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1042,6 +1187,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1073,6 +1223,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1112,6 +1267,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1146,6 +1306,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1182,6 +1347,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1199,8 +1369,8 @@
         "mapping": {
             "workspace": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "checkinReplace": {
                 "lf": "lf",
@@ -1213,6 +1383,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1250,6 +1425,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1287,6 +1467,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1320,6 +1505,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1357,6 +1547,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1388,6 +1583,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1427,6 +1627,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1460,6 +1665,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1497,6 +1707,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1528,6 +1743,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1567,6 +1787,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1602,6 +1827,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1637,6 +1867,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1672,6 +1907,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1706,6 +1946,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1742,6 +1987,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1773,6 +2023,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1812,6 +2067,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1846,6 +2106,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1882,6 +2147,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -1913,6 +2183,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1952,6 +2227,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -1987,6 +2267,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -2020,6 +2305,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2057,6 +2347,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -2092,6 +2387,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -2126,6 +2426,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2162,6 +2467,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -2193,6 +2503,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2232,6 +2547,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -2266,6 +2586,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2302,6 +2627,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
+                "mixed": "mixed"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -2333,6 +2663,11 @@
                 "mixed": "lf"
             },
             "checkinPrepend": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "checkinExtendEmpty": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2372,6 +2707,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -2407,6 +2747,11 @@
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "crlf",
@@ -2440,6 +2785,11 @@
             "checkinPrepend": {
                 "lf": "lf",
                 "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "crlf",
+                "crlf": "lf",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2477,6 +2827,11 @@
                 "crlf": "lf",
                 "mixed": "lf"
             },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
             "unmodified": {
                 "lf": "lf",
                 "crlf": "lf",
@@ -2511,6 +2866,11 @@
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
+            },
+            "checkinExtendEmpty": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "unmodified": {
                 "lf": "lf",
