@@ -7,30 +7,40 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -47,29 +57,39 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -87,27 +107,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -127,27 +157,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -167,30 +207,40 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -207,227 +257,287 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "true",
-            "eol": "lf",
-            "core_autocrlf": "false",
-            "core_eol": "crlf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "undefined",
-            "eol": "lf",
-            "core_autocrlf": "false",
-            "core_eol": "crlf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "auto",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "crlf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "crlf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "false",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "crlf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "true",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "crlf"
-        },
-        "mapping": {
-            "workspace": {
+            "commitModifyCrLfFile": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "crlf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -447,29 +557,39 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -487,30 +607,40 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -527,29 +657,39 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -567,27 +707,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -607,27 +757,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -647,30 +807,40 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -687,29 +857,39 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -727,27 +907,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -767,27 +957,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -807,30 +1007,40 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -847,29 +1057,39 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -887,27 +1107,37 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -927,30 +1157,40 @@
             "core_eol": "crlf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -967,30 +1207,40 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1007,227 +1257,87 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "true",
-            "eol": "crlf",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
+            "commitModifyCrLfFile": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             }
         }
     },
     {
         "config": {
-            "text": "undefined",
+            "text": "true",
             "eol": "crlf",
             "core_autocrlf": "false",
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "auto",
-            "eol": "lf",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "false",
-            "eol": "lf",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "true",
-            "eol": "lf",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1242,312 +1352,592 @@
     {
         "config": {
             "text": "undefined",
-            "eol": "lf",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "auto",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "false",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "true",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "undefined",
-            "eol": "undefined",
-            "core_autocrlf": "false",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "auto",
             "eol": "crlf",
-            "core_autocrlf": "true",
+            "core_autocrlf": "false",
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
-                "lf": "crlf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "false",
-            "eol": "crlf",
-            "core_autocrlf": "true",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinPrepend": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinExtendEmpty": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "true",
-            "eol": "crlf",
-            "core_autocrlf": "true",
-            "core_eol": "lf"
-        },
-        "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "lf",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "undefined",
+            "eol": "undefined",
+            "core_autocrlf": "false",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "auto",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "false",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
+                "mixed": "mixed"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "mixed"
+            }
+        }
+    },
+    {
+        "config": {
+            "text": "true",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "lf"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1567,27 +1957,37 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1607,30 +2007,40 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1647,29 +2057,39 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1687,27 +2107,37 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1727,27 +2157,37 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1767,30 +2207,40 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1807,29 +2257,39 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -1847,27 +2307,37 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -1887,30 +2357,40 @@
             "core_eol": "lf"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1927,30 +2407,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -1967,29 +2457,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2007,27 +2507,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2047,27 +2557,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2087,30 +2607,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2127,29 +2657,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2167,27 +2707,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2207,27 +2757,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2247,30 +2807,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2287,29 +2857,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2327,27 +2907,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2367,29 +2957,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2407,30 +3007,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2447,29 +3057,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2487,27 +3107,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2527,27 +3157,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2567,30 +3207,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2607,29 +3257,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2647,27 +3307,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinReplace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2687,27 +3357,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2727,30 +3407,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2767,29 +3457,39 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
-                "lf": "lf",
+            "commitModifyCrLfFile": {
+                "lf": "crlf",
                 "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "mixed",
+                "crlf": "mixed",
                 "mixed": "mixed"
             },
             "unmodified": {
@@ -2807,27 +3507,37 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "crlf"
             },
-            "checkinReplace": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinNew": {
+            "commitPrependSimpleText": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
@@ -2847,30 +3557,40 @@
             "core_eol": "native"
         },
         "mapping": {
-            "workspace": {
+            "clone": {
                 "lf": "crlf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinReplace": {
-                "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
-            },
-            "checkinNew": {
+            "commitNew": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
             },
-            "checkinPrepend": {
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
                 "lf": "lf",
                 "crlf": "crlf",
                 "mixed": "mixed"
             },
-            "checkinExtendEmpty": {
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitModifyLfFile": {
                 "lf": "lf",
                 "crlf": "lf",
                 "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "mixed",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
