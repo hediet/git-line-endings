@@ -19,13 +19,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -219,13 +219,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -419,13 +419,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -619,13 +619,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -819,13 +819,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -1019,13 +1019,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -1169,13 +1169,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -1219,13 +1219,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -1419,13 +1419,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -1619,13 +1619,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -1819,13 +1819,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -2019,13 +2019,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -2219,13 +2219,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -2369,13 +2369,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -2419,13 +2419,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -2619,13 +2619,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -2819,13 +2819,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -3019,13 +3019,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -3102,56 +3102,6 @@
     {
         "config": {
             "text": "true",
-            "eol": "crlf",
-            "core_autocrlf": "true",
-            "core_eol": "native"
-        },
-        "mapping": {
-            "clone": {
-                "lf": "crlf",
-                "crlf": "crlf",
-                "mixed": "crlf"
-            },
-            "commitNew": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "commitPrependSimpleText": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "commitModifySimpleFile": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "commitModifyCrLfFile": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "commitModifyLfFile": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "commitModifyMixedFile": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            },
-            "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
-            }
-        }
-    },
-    {
-        "config": {
-            "text": "undefined",
             "eol": "crlf",
             "core_autocrlf": "true",
             "core_eol": "native"
@@ -3201,6 +3151,56 @@
     },
     {
         "config": {
+            "text": "undefined",
+            "eol": "crlf",
+            "core_autocrlf": "true",
+            "core_eol": "native"
+        },
+        "mapping": {
+            "clone": {
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
+            },
+            "commitNew": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitPrependSimpleText": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifySimpleFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyCrLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyLfFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "commitModifyMixedFile": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            },
+            "unmodified": {
+                "lf": "lf",
+                "crlf": "lf",
+                "mixed": "lf"
+            }
+        }
+    },
+    {
+        "config": {
             "text": "auto",
             "eol": "lf",
             "core_autocrlf": "true",
@@ -3219,13 +3219,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -3419,13 +3419,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
@@ -3569,13 +3569,13 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
