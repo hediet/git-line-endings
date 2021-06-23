@@ -159,8 +159,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -819,8 +819,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -1479,8 +1479,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -2139,8 +2139,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -2324,8 +2324,8 @@
             },
             "commitNew": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
@@ -2334,23 +2334,23 @@
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifyCrLfFile": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifyLfFile": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifyMixedFile": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "unmodified": {
                 "lf": "lf",
@@ -2799,8 +2799,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -2848,9 +2848,9 @@
                 "mixed": "mixed"
             },
             "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
             },
             "show": {
                 "lf": "lf",
@@ -3459,8 +3459,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
