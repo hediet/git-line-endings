@@ -159,8 +159,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -1039,8 +1039,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             }
         }
     },
@@ -1528,9 +1528,9 @@
                 "mixed": "mixed"
             },
             "unmodified": {
-                "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "lf": "crlf",
+                "crlf": "crlf",
+                "mixed": "crlf"
             },
             "show": {
                 "lf": "lf",
@@ -1864,8 +1864,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             }
         }
     },
@@ -2689,8 +2689,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -2924,8 +2924,8 @@
         "mapping": {
             "clone": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitNew": {
                 "lf": "lf",
@@ -2934,8 +2934,8 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
@@ -2959,13 +2959,13 @@
             },
             "unmodified": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "show": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             }
         }
     },
@@ -3184,8 +3184,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "crlf",
-                "mixed": "mixed"
+                "crlf": "lf",
+                "mixed": "lf"
             }
         }
     },
@@ -3514,8 +3514,8 @@
             },
             "show": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             }
         }
     },
@@ -4519,8 +4519,8 @@
         "mapping": {
             "clone": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitNew": {
                 "lf": "lf",
@@ -4529,8 +4529,8 @@
             },
             "commitPrependSimpleText": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "commitModifySimpleFile": {
                 "lf": "lf",
@@ -4554,13 +4554,13 @@
             },
             "unmodified": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             },
             "show": {
                 "lf": "lf",
-                "crlf": "lf",
-                "mixed": "lf"
+                "crlf": "crlf",
+                "mixed": "mixed"
             }
         }
     },
