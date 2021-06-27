@@ -1,0 +1,21 @@
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+
+body {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lineEndingSymbol {
+	border-radius: 4px;
+	border: 1px solid gray;
+	padding: 1px;
+
+	&.LF {
+		background-color: #d1f26d;
+	}
+
+	&.CRLF {
+		background-color: #ff8364;
+	}
+}

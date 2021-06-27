@@ -1,26 +1,81 @@
 name: Run
 on:
-  push:
-    branches:
-      - main
-  pull_request:
+    push:
+        branches:
+            - main
+    pull_request:
 
 jobs:
-  build:
-    strategy:
-      matrix:
-        os: [macos-latest, ubuntu-latest, windows-latest]
-    runs-on: ${{ matrix.os }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Install Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: "14"
-      - run: yarn install --frozen-lockfile
-      - run: yarn run
-      - uses: actions/upload-artifact@v2
-        with:
-          name: results
-          path: git-workspace/results.json
+    get-data:
+        strategy:
+            matrix:
+                os: [macos-latest, ubuntu-latest, windows-latest]
+        runs-on: ${{ matrix.os }}
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+            - name: Setup git user
+              run: |
+                  git config --global user.name "test"
+                  git config --global user.email "test@example.org"
+
+            - name: Cache Data Retrieval
+              id: cache-data-retrieval
+              uses: actions/cache@v2
+              with:
+                  path: ./data-retrieval/git-workspace/data.json
+                  key: ${{ runner.os }}-${{ hashFiles('./data-retrieval/**') }}-data
+
+            - name: Install Node.js
+              if: steps.cache-data-retrieval.outputs.cache-hit != 'true'
+              uses: actions/setup-node@v1
+              with:
+                  node-version: "14"
+            - run: yarn install --frozen-lockfile
+              if: steps.cache-data-retrieval.outputs.cache-hit != 'true'
+              working-directory: ./data-retrieval
+            - run: yarn start
+              if: steps.cache-data-retrieval.outputs.cache-hit != 'true'
+              working-directory: ./data-retrieval
+
+            - uses: actions/upload-artifact@v2
+              with:
+                  name: data-${{ matrix.os }}
+                  path: ./data-retrieval/git-workspace/data.json
+    build-website:
+        needs: get-data
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+            - run: ls
+              working-directory: ./web
+            - name: Install Node.js
+              uses: actions/setup-node@v1
+              with:
+                  node-version: "14"
+            - run: yarn install --frozen-lockfile
+              working-directory: ./web
+
+            - run: yarn build
+              working-directory: ./web
+
+            - uses: actions/download-artifact@v2
+              with:
+                  name: data-macos-latest
+                  path: web/dist/data/mac
+            - uses: actions/download-artifact@v2
+              with:
+                  name: data-ubuntu-latest
+                  path: web/dist/data/ubuntu
+            - uses: actions/download-artifact@v2
+              with:
+                  name: data-windows-latest
+                  path: web/dist/data/windows
+
+            - run: |
+                  git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+                  yarn pub
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              working-directory: ./web
