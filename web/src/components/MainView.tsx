@@ -75,9 +75,9 @@ export class MainView extends React.Component<{ model: Model }, {}> {
 				<h2 className="bp3-heading">Git Settings</h2>
 
 				<pre className="bp3-code-block">{model.gitConfigCommands}</pre>
-				<h2 className="bp3-heading">.gitconfig</h2>
+				<h2 className="bp3-heading">.gitattributes</h2>
 				<pre className="bp3-code-block">
-					{model.gitAttributeContent}
+					{model.gitAttributesContent}
 				</pre>
 			</div>
 		);

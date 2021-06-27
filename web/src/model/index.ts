@@ -139,7 +139,7 @@ export class Model {
 		};
 	}
 
-	public get gitAttributeContent(): string {
+	public get gitAttributesContent(): string {
 		return getGitAttributesConfig(this.currentConfig);
 	}
 
