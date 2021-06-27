@@ -107,11 +107,13 @@ class Setting<T extends string> implements ActiveBindableValue<T> {
 export class Model {
 	@observable private entries: Entry[] | undefined = undefined;
 
-	public readonly os = new Setting<Config["os"]>("os", "windows", () =>
+	public readonly os = new Setting<Config["os"]>("os", "unix", () =>
 		this.isEnabled("os")
 	);
-	public readonly text = new Setting<Config["text"]>("text", "auto", () =>
-		this.isEnabled("text")
+	public readonly text = new Setting<Config["text"]>(
+		"text",
+		"undefined",
+		() => this.isEnabled("text")
 	);
 	public readonly eol = new Setting<Config["eol"]>("eol", "undefined", () =>
 		this.isEnabled("eol")
